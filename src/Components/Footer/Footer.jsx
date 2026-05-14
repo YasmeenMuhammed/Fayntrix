@@ -44,7 +44,7 @@ export default function Footer() {
 
         </div>
         <div className="lg:col-span-1">
-          <div className="space-y-3 ps-4">
+          <div className="space-y-3">
             <h2 className='text-white text-2xl' style={{ fontFamily: "'Barlow_Condensed', Arial Narrow, sans-serif" }}>Studio</h2>
             <ul className='space-y-2 text-white/60 list-none m-0 p-0'>
               <li className='hover:text-white transition-colors duration-200'>
@@ -56,7 +56,6 @@ export default function Footer() {
               <li className='hover:text-white transition-colors duration-200'>Capabilities</li>
               <li className='hover:text-white transition-colors duration-200'>Career</li>
             </ul>
-
           </div>
 
         </div>

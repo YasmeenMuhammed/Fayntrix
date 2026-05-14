@@ -21,7 +21,7 @@ const fadeIn = (delay = 0) => ({
 });
 
 // ── Video Card ─────────────────────────────────────────────────────────────
-const VIDEO_SRC = "/public/copy_56EEAB58-F6AD-4B46-8452-BC91DB4E4162.mov";
+const VIDEO_SRC = "/copy_56EEAB58-F6AD-4B46-8452-BC91DB4E4162.mov";
 
 function VideoCard() {
   const videoRef = useRef(null);
