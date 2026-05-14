@@ -41,7 +41,7 @@ export const blogPosts = [
     excerpt:
       "Techniques from our latest fashion campaign on capturing kinetic energy without motion blur.",
     quote: null,
-    image: "/public/Services 1.jpeg",
+    image: "/Services1.jpeg",
     featured: false,
     content: `
       Still photography has a paradox at its core: the image is frozen, yet the best images pulse with energy. 
@@ -66,7 +66,7 @@ export const blogPosts = [
     excerpt:
       "A timelapse and walkthrough of constructing our custom rain room for the latest commercial project.",
     quote: null,
-    image: "/public/Services 2.jpeg",
+    image: "/Services2.jpeg",
     featured: false,
     content: `
       Rain on film is a lie. Actual rain is invisible on camera — the drops are too small, too fast, too sparse. 
@@ -93,7 +93,7 @@ export const blogPosts = [
     excerpt:
       "Why we build custom node trees from scratch for every hero shot rather than relying on presets.",
     quote: '"Color is emotion mathematically applied."',
-    image: "/public/Services 3.jpeg",
+    image: "/Services3.jpeg",
     featured: false,
     content: `
       A LUT is a starting point, not a destination. The problem with preset-driven color grading is that it 
