@@ -229,7 +229,7 @@ export default function Home() {
                 }}
                 whileTap={{ scale: 0.97 }}
                 transition={{ duration: 0.2 }}
-                onClick={() => navigate("/booking")}
+                onClick={() => navigate("/contact")}
                 className="flex items-center gap-3 px-7 py-4 bg-transparent
                          border border-white/40 text-white text-[11px] font-bold
                          tracking-[0.22em] uppercase cursor-pointer
